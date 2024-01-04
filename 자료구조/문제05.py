@@ -1,3 +1,5 @@
+# 나머지 합 구하기
+
 import sys
 input = sys.stdin.readline
 
